@@ -1,0 +1,24 @@
+Cold Drinks : 
+ice americano = 45000
+ice latte = 56000
+ice mocha = 66000
+affogato = 53000
+lemonade = 51000
+mojito = 52000
+
+Warm Drinks :
+espresso = 42000
+americano = 45000
+latte = 56000
+mocha = 66000
+hot chocolate = 58000
+tea = 40000
+
+Foods : 
+caesar = 168000
+fries = 85000
+pasta = 190000
+pizza = 210000
+burger = 268000
+snack = 148000
+sandwich = 216000

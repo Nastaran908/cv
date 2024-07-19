@@ -1,0 +1,4 @@
+Customer Name : nas
+Phone Number : 0987
+Date : 2024
+Total amount : 119000

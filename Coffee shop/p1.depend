@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721318396 source:c:\users\abolfazl\documents\assassin's creed revelations\p1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

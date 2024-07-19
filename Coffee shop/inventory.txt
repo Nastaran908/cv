@@ -1,0 +1,24 @@
+Cold Drinks : 
+ice americano = 20
+ice latte = 34
+ice mocha = 15
+affogato = 21
+lemonade = 23
+mojito = 25
+
+Warm Drinks :
+espresso = 40
+americano = 30
+latte = 24
+mocha = 29
+hot chocolate = 10
+tea = 19
+
+Foods : 
+caesar = 5
+fries = 20
+pasta = 7
+pizza = 15
+burger = 6
+snack = 20
+sandwich = 11
